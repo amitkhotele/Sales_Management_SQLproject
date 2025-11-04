@@ -58,7 +58,7 @@ By completing this project, you’ll learn:
 
 ## 💻 Tools Used
 
-- **MySQL/SQL 
+- **MySQL/SQL**
 
 ---
 
@@ -76,11 +76,3 @@ By completing this project, you’ll learn:
 **👤 Amit Khotele**  
 📍 SQL & Data Enthusiast  
 💼 Passionate about turning raw data into actionable insights  
-
----
-
-## 🏁 Conclusion
-
-This project reflects how structured SQL logic can uncover **meaningful insights** from raw sales data — similar to real analytics used in businesses like **Amazon, Flipkart, and Swiggy**.
-
-If you’re learning **SQL, Data Analytics, or Backend Development**, this projec
